@@ -1,0 +1,70 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN"><HTML><HEAD><TITLE>StrataWiki: NIMDAInfofromMicrosoft</TITLE></HEAD><BODY BGCOLOR="white"><h1><a href="StrataWiki.html"><img src="http://localhost/uw_sm.gif" alt="Home" border=0 align="right"></a><a href="NIMDAInfofromMicrosoft-backlinks.html">NIMDAInfofromMicrosoft</a></h1>See NIMDAWormBlocking for info about blocking the worm at the server level.<br>
+See NIMDAWorm for general info about the worm, NIMDAInfofromIncidentsDotOrg for a comprehensive list of effects and details.<br>
+<hr>
+<pre>
+From: Microsoft Security Response Center 
+Sent: Tuesday, September 18, 2001 4:32 PM
+Subject: Virus Alert: W32.Nimda.A@mm Worm Virus
+Importance: High
+<p>
+Though you may share this info with customers, do not forward
+<PRE>
+ this message with the internal aliases.  Thanks!
+<p>
+</PRE>
+Microsoft is investigating reports of a new virus that is
+<PRE>
+ affecting many of our customers.  The investigation is 
+</PRE>
+ongoing, and the information we have at this point is preliminary. We will update it as we learn more.
+<p>
+It appears that the virus spreads via three methods: by sending itself
+via email, by infecting vulnerable web servers, and through file shares.
+<p>
+Email:  The virus includes itself as a file attached to an email.    The
+worm uses MAPI calls to read email in your email program's inbox in
+order to find new addresses.  Note that the worm uses its own SMTP
+engine to send itself as an attachment with no body and with random
+subject lines.  When a user receives this email, the readme.exe poses as
+an audio .wav file.  What you and your customer should be doing to
+thwart this:
+<p>
+<UL>
+<li>       Apply MS01-020 as the email variant uses this vulnerability as soon as the user opens the mail.  Please note that Outlook is not being used to spread the email variant so even though the OESU is a terrific idea, it is not pertinent to this situation.  
+<li>       IE 5.01 Service Pack 2 includes the fix in MS01-020 
+<li>       IE 5.5 Service Pack 2 includes the fix in MS01-020 
+<li>       IE6 (not vulnerable) 
+<li>       Don't open untrusted attachments.
+<p>
+</UL>
+You might also consider unregistering .eml file types.
+<p>
+Web servers:  Infected machines try to spread the infection to web servers via several known vulnerabilities affecting IIS 4.0 and 5.0. All of these vulnerabilities are eliminated by the most recent patch for IIS, which was delivered over a month ago via Microsoft Security Bulletin MS01-044.  Please note that if you did not clean up infection from Code Red, you may be vulnerable to this virus regardless of the patches applied!
+<p>
+File shares:  Infected machines try to find neighboring computers that have been configured to share files.  If it finds a computer that gives it write access, it inserts infected files onto the machine.  No Windows systems perform file sharing by default.  Any infected machine which has mapped network drives will likely infect all of the files on the mapped drive and its subdirectories.  What you might do to thwart this:
+<p>
+<UL>
+<li>       Use the CALCS program to modify the permissions on TFTP.EXE to remove all use;
+<p>
+        CALCS %systemroot%/system32/tftp.exe /D Everyone
+<p>
+        CALCS %systemroot%/system32/tftp.exe /D System
+<p>
+<li>       Don't let TFTP out through the network gateway because newly infected machines may try and TFTP internally from some other infected machine you have on the network.
+<p>
+<p>
+</UL>
+As with any virus, each customer must contact their AV vendor and work closely with them for the updated definitions file as well as information on cleaning infected systems.
+<p>
+We are working closely with the anti-virus community and we are planning to update the Hot Topics site at
+<a href="http://www.microsoft.com/technet/treeview/default.asp?url=/technet/security/current.asp"">http://www.microsoft.com/technet/treeview/default.asp?url=/technet/security/current.asp</a>
+<<a href="http://www.microsoft.com/technet/treeview/default.asp?url=/technet/security/current.asp>"">http://www.microsoft.com/technet/treeview/default.asp?url=/technet/security/current.asp></a>  to provide information to which you can point your
+customers.  Please check this link and point your customers to the site.
+We will update the Hot Topic as appropriate.
+<p>
+Lynn
+<p>
+</pre>
+[Return to<a href="TelecomInfofor.html">TelecomInfofor</a>ISPs]<br>
+[Return to<a href="SeptemberDisaster.html">SeptemberDisaster</a>]
+<hr>Page last edited March 22, 2002<br><a href="http://www.opencontent.org/"> <img src="http://www.opencontent.org/takeone.gif" border=0 align="right" alt="Take One!"></a></BODY></HTML>
