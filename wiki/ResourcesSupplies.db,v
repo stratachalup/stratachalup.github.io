@@ -1,0 +1,170 @@
+head	1.9;
+access;
+symbols;
+locks
+	"":1.9; strict;
+comment	@# @;
+
+
+1.9
+date	2001.09.12.07.38.02;	author "";	state Exp;
+branches;
+next	1.8;
+
+1.8
+date	2001.09.04.02.31.56;	author "";	state Exp;
+branches;
+next	1.7;
+
+1.7
+date	2001.09.04.02.25.02;	author "";	state Exp;
+branches;
+next	1.6;
+
+1.6
+date	2001.09.04.01.46.25;	author "";	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	2001.09.04.01.41.09;	author "";	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	2001.09.04.01.33.22;	author "";	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2001.09.04.01.32.41;	author "";	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2001.09.02.01.06.25;	author "";	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2001.09.02.01.05.50;	author "";	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.9
+log
+@"link edit"
+@
+text
+@type³wiki³backlinks³AugustOneHundredGrads ³logname³³text³I'm intrigued by the idea of a massage oil that (it's claimed) 
+would leave the client not feeling oily, and is water soluble. 
+Here's one supplier, I'm sure there are others!  http://www.gotyourback.com/products.cfm?step=3&s=15&ss=58&c=0&sc=0&p=474 Strata
+
+[Here's someone doing a special, 3 8oz bottles for $22.95-- want to do an
+order in common and try it out?  http://www.bodykneads.com/apurepro.htm]
+
+Some suppliers (let me know if you order from any, and what they're like!)
+
+* Bodywork Mall http://www.bodyworkmall.com/cgi-sz/webcwrap/szw/home.html
+* Bodywork Central http://www.bodyworkcentral.com/
+* Bodywork.com  http://www.bodywork.com/ibs/
+* Bodywork Emporium http://www.bodywork-emporium.com/raw.htm
+* Roots & Wings at Yoga.com  http://www.yoga.com/raw/massage/store/massage.html
+* Body Kneads  http://www.bodykneads.com/
+
+Add more stuff here!  :-)
+
+Return to AugustOneHundredGrads.³date³September 12, 2001@
+
+
+1.8
+log
+@"wiki edit"
+@
+text
+@d1 1
+a1 1
+type³wiki³backlinks³AugustOneHundredGrads RecentChanges³logname³³text³I'm intrigued by the idea of a massage oil that (it's claimed) 
+d19 1
+a19 1
+Return to AugustOneHundredGrads.³date³September 3, 2001@
+
+
+1.7
+log
+@"wiki edit"
+@
+text
+@d5 3
+d15 1
+@
+
+
+1.6
+log
+@"wiki edit"
+@
+text
+@d1 3
+a3 2
+type³wiki³backlinks³AugustOneHundredGrads RecentChanges³logname³³text³Found gallon jugs of massage oil blends at various places.  
+They seemed to have OK prices, and I was intrigued by a jug of "Pro Lite" oil that they claimed would leave the client not feeling oily, and was water soluble.  Strata
+@
+
+
+1.5
+log
+@"wiki edit"
+@
+text
+@d10 1
+@
+
+
+1.4
+log
+@"wiki edit"
+@
+text
+@d9 1
+@
+
+
+1.3
+log
+@"wiki edit"
+@
+text
+@d8 1
+a8 1
+* Bodywork  http://www.bodywork.com/ibs/
+@
+
+
+1.2
+log
+@"wiki edit"
+@
+text
+@d1 8
+a8 1
+type³wiki³backlinks³AugustOneHundredGrads RecentChanges³logname³³text³Found gallon jugs of massage oil blends at http://www.ebodyworks.com/  They seemed to have OK prices, and I was intrigued by a jug of "Pro Lite" oil that they claimed would leave the client not feeling oily, and was water soluble.  Strata
+d12 1
+a12 1
+Return to AugustOneHundredGrads.³date³September 1, 2001@
+
+
+1.1
+log
+@"wiki edit"
+@
+text
+@d1 1
+a1 1
+type³wiki³backlinks³AugustOneHundredGrads RecentChanges³logname³³text³Found gallon jugs of massage oil blends at http://www.ebodyworks.com/  They seemed to have OK prices, and I was intrigued by a jug of "Pro Lite" oil that they claimed would leave the client not feeling oily, and was water soluble.  SRC
+@

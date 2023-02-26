@@ -1,0 +1,29 @@
+type³wiki³backlinks³ EngineeringWiki SeptemberChanges³logname³³text³See http://www.ira.uka.de/~marcus/AtisWiki.cgi?action=Browse&id=TextFormattingRules --- 
+or follow the following:
+
+Paragraphs:
+
+* Don't indent paragraphs
+	* Words wrap and fill as needed
+	* blank lines separate
+	* four or more minuses to make a <hr>
+
+Lists:
+	* tab-* for first level
+	* tab-tab-* for second level, etc.
+* alternatively, you poor sods using MSIE can use * for first level, ** for second, etc.
+	* use * for bulleted lists, 1. for numbered lists.
+	* tab-term:-tab-definition for definition lists.
+	* one line for each item
+	* other leading whitespace signals plain ASCII preformatted stuff.
+Emphasis:
+	* doubled single-quotes ('') for emphasis
+		* like ''this''
+	* tripled single-quotes (''') for strong emphasis
+		* like '''this''' --- remind you of Python?
+	* at most one per line; don't cross line boundaries.
+References:
+	* JoinCapitalizedWords or _use_underscores_ to make links
+	* or use URLs with http:, ftp:, or mailto:.
+
+You can also include HTML markup, like <a href="gopher://wiretap.spies.com/">this</a>.³date³October 4, 2001

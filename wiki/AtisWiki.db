@@ -1,0 +1,9 @@
+type³wiki³backlinks³EngineeringWiki  WikiWikiWeb AugustChanges³logname³³text³AtisWiki lives at http://www.ira.uka.de/~marcus/AtisWiki.cgi --- you can go there for more info.
+
+It appears that, with AtisWiki, if two people edit the same page at the same
+time, the updates from the one who committed first will be lost.  (Well, they're
+still in RCS.)  If this happens to you, you can find your version in the Backup
+Copies, copy the changed section, and edit the modern version to include your changes.
+
+One of these days I'll get around to making HTML diff displays and merge utilities.
+³date³August 25, 2000

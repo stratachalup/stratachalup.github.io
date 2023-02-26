@@ -1,0 +1,79 @@
+head	1.4;
+access;
+symbols;
+locks
+	"":1.4; strict;
+comment	@# @;
+
+
+1.4
+date	2001.09.12.07.38.02;	author "";	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2001.09.02.04.42.09;	author "";	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2001.09.02.04.41.47;	author "";	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2001.09.02.04.36.56;	author "";	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.4
+log
+@"link edit"
+@
+text
+@type³wiki³backlinks³AugustOneHundredGrads ³logname³³text³Here is the municipal code governing massage in San Francisco. 
+(http://www.amlegal.com/sanfrancisco_ca/lpext.dll/Infobase4/12c9?f=templates&fn=document-frame.htm&q=masseuse&x=Simple&2.0#LPHit1)
+It seems to indicate that if you have 70 or more hours of instruction and a certificate from a school, you can get a permit to do outcall massage.  I'm still studying it.  Strata
+
+Here are instructions about the permits.  The page here (http://www.ci.sf.ca.us/police/public/permits/permitsmnu.htm) includes a link 
+to a PDF (Acrobat) version of the permit form to fill out.  Strata
+
+³date³September 12, 2001@
+
+
+1.3
+log
+@"wiki edit"
+@
+text
+@d1 1
+a1 1
+type³wiki³backlinks³AugustOneHundredGrads RecentChanges³logname³³text³Here is the municipal code governing massage in San Francisco. 
+d8 1
+a8 1
+³date³September 1, 2001@
+
+
+1.2
+log
+@"wiki edit"
+@
+text
+@d2 2
+a3 1
+http://www.amlegal.com/sanfrancisco_ca/lpext.dll/Infobase4/12c9?f=templates&fn=document-frame.htm&q=masseuse&x=Simple&2.0#LPHit1  It seems to indicate that if you have 70 or more hours of instruction and a certificate from a school, you can get a permit to do outcall massage.  I'm still studying it.  Strata
+@
+
+
+1.1
+log
+@"wiki edit"
+@
+text
+@d4 3
+@

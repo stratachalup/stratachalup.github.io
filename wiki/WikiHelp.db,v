@@ -1,0 +1,184 @@
+head	1.9;
+access;
+symbols;
+locks
+	"":1.9; strict;
+comment	@# @;
+
+
+1.9
+date	2001.10.05.03.53.31;	author "";	state Exp;
+branches;
+next	1.8;
+
+1.8
+date	2001.10.05.03.52.50;	author "";	state Exp;
+branches;
+next	1.7;
+
+1.7
+date	2001.09.17.00.48.04;	author "";	state Exp;
+branches;
+next	1.6;
+
+1.6
+date	2001.08.18.15.52.13;	author "";	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	2000.08.23.00.10.31;	author "";	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	2000.08.23.00.10.19;	author "";	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2000.08.19.05.30.47;	author "";	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2000.08.18.20.49.10;	author "";	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2000.08.18.20.47.06;	author "";	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.9
+log
+@"link edit"
+@
+text
+@type³wiki³backlinks³ EngineeringWiki SeptemberChanges³logname³³text³See http://www.ira.uka.de/~marcus/AtisWiki.cgi?action=Browse&id=TextFormattingRules --- 
+or follow the following:
+
+Paragraphs:
+
+* Don't indent paragraphs
+	* Words wrap and fill as needed
+	* blank lines separate
+	* four or more minuses to make a <hr>
+
+Lists:
+	* tab-* for first level
+	* tab-tab-* for second level, etc.
+* alternatively, you poor sods using MSIE can use * for first level, ** for second, etc.
+	* use * for bulleted lists, 1. for numbered lists.
+	* tab-term:-tab-definition for definition lists.
+	* one line for each item
+	* other leading whitespace signals plain ASCII preformatted stuff.
+Emphasis:
+	* doubled single-quotes ('') for emphasis
+		* like ''this''
+	* tripled single-quotes (''') for strong emphasis
+		* like '''this''' --- remind you of Python?
+	* at most one per line; don't cross line boundaries.
+References:
+	* JoinCapitalizedWords or _use_underscores_ to make links
+	* or use URLs with http:, ftp:, or mailto:.
+
+You can also include HTML markup, like <a href="gopher://wiretap.spies.com/">this</a>.³date³October 4, 2001@
+
+
+1.8
+log
+@"link edit"
+@
+text
+@d1 1
+a1 1
+type³wiki³backlinks³ EngineeringWiki³logname³³text³See http://www.ira.uka.de/~marcus/AtisWiki.cgi?action=Browse&id=TextFormattingRules --- 
+@
+
+
+1.7
+log
+@"wiki edit"
+@
+text
+@d29 1
+a29 1
+You can also include HTML markup, like <a href="gopher://wiretap.spies.com/">this</a>.³date³September 16, 2001@
+
+
+1.6
+log
+@"link edit"
+@
+text
+@d5 2
+a6 1
+	* Don't indent paragraphs
+d29 1
+a29 1
+You can also include HTML markup, like <a href="gopher://wiretap.spies.com/">this</a>.³date³August 18, 2001@
+
+
+1.5
+log
+@"wiki edit"
+@
+text
+@d1 1
+a1 1
+type³wiki³backlinks³RecentChanges EngineeringWiki³logname³³text³See http://www.ira.uka.de/~marcus/AtisWiki.cgi?action=Browse&id=TextFormattingRules --- 
+d28 1
+a28 1
+You can also include HTML markup, like <a href="gopher://wiretap.spies.com/">this</a>.³date³August 22, 2000@
+
+
+1.4
+log
+@"wiki edit"
+@
+text
+@d13 1
+a13 1
+** alternatively, you poor sods using MSIE can use * for first level, ** for second, etc.
+@
+
+
+1.3
+log
+@"link edit"
+@
+text
+@d13 1
+d28 1
+a28 1
+You can also include HTML markup, like <a href="gopher://wiretap.spies.com/">this</a>.³date³August 19, 2000@
+
+
+1.2
+log
+@"wiki edit"
+@
+text
+@d1 1
+a1 1
+type³wiki³backlinks³RecentChanges³logname³³text³See http://www.ira.uka.de/~marcus/AtisWiki.cgi?action=Browse&id=TextFormattingRules --- 
+d27 1
+a27 1
+You can also include HTML markup, like <a href="gopher://wiretap.spies.com/">this</a>.³date³August 18, 2000@
+
+
+1.1
+log
+@"wiki edit"
+@
+text
+@d25 3
+a27 1
+	* or use URLs with http:, ftp:, or mailto:.³date³August 18, 2000@

@@ -1,0 +1,44 @@
+head	1.2;
+access;
+symbols;
+locks
+	"":1.2; strict;
+comment	@# @;
+
+
+1.2
+date	2001.09.12.07.38.01;	author "";	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2001.09.04.01.19.05;	author "";	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.2
+log
+@"link edit"
+@
+text
+@type³wiki³backlinks³AugustOneHundredGrads ³logname³³text³Searching for Biotone Massage Oil (long story), I found a sample business plan for a Day Spa, produced by the University of Pennsylvania's Kutztown Small Business Development Center.  As Dave Barry says, "I am not making this up!"  :-)  Looked pretty comprehensive, may be a good guide for any of us looking to start or get involved with a day spa.  I like their choice of name.
+
+Available at http://www.kutztownsbdc.org/sample_plan.htm  If that link stops working, email me, I snagged a copy and saved it locally!  Strata³date³September 12, 2001@
+
+
+1.1
+log
+@"wiki edit"
+@
+text
+@d1 1
+a1 1
+type³wiki³backlinks³AugustOneHundredGrads RecentChanges³logname³³text³Searching for Biotone Massage Oil (long story), I found a sample business plan for a Day Spa, produced by the University of Pennsylvania's Kutztown Small Business Development Center.  As Dave Barry says, "I am not making this up!"  :-)  Looked pretty comprehensive, may be a good guide for any of us looking to start or get involved with a day spa.  I like their choice of name.
+d3 1
+a3 1
+Available at http://www.kutztownsbdc.org/sample_plan.htm  If that link stops working, email me, I snagged a copy and saved it locally!  Strata³date³September 3, 2001@

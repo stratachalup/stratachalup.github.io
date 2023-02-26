@@ -1,0 +1,78 @@
+head	1.4;
+access;
+symbols;
+locks
+	"":1.4; strict;
+comment	@# @;
+
+
+1.4
+date	2001.09.01.19.45.45;	author "";	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2001.09.01.19.45.27;	author "";	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2001.09.01.19.44.06;	author "";	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2001.09.01.19.43.56;	author "";	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.4
+log
+@"Rename"
+@
+text
+@backlinks³³logname³³text³Describe the new Page here³date³September 1, 2001@
+
+
+1.3
+log
+@"wiki edit"
+@
+text
+@d1 1
+a1 6
+type³wiki³backlinks³RecentChanges VirtualNetWiki³logname³³text³Alumni of the MassageOneHundred class of August 2001 can use 
+this as a homepage for linking in their personal pages, either
+offsite or on this server.   Just add your name to the list below, and hit the "Save" button.  You'll see a new link, which you can click on, and then edit your page!
+
+* StrataChalup
+* ³date³September 1, 2001@
+
+
+1.2
+log
+@"wiki edit"
+@
+text
+@d3 1
+a3 3
+offsite or on this server.   
+
+Just add your name to the list below, and hit the "Save" button.  You'll see a new link, which you can click on, and then edit your page!
+@
+
+
+1.1
+log
+@"wiki edit"
+@
+text
+@d3 3
+a5 1
+offsite or on this server.   Just add your name to the list below, and hit the "Save" button.  You'll see a new link, which you can click on, and then edit your page!
+@

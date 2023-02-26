@@ -1,0 +1,185 @@
+head	1.9;
+access;
+symbols;
+locks
+	"":1.9; strict;
+comment	@# @;
+
+
+1.9
+date	2001.11.02.15.54.13;	author "";	state Exp;
+branches;
+next	1.8;
+
+1.8
+date	2001.11.02.15.53.58;	author "";	state Exp;
+branches;
+next	1.7;
+
+1.7
+date	2001.11.01.05.25.38;	author "";	state Exp;
+branches;
+next	1.6;
+
+1.6
+date	2001.11.01.05.19.28;	author "";	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	2001.11.01.05.18.49;	author "";	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	2001.11.01.05.18.24;	author "";	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2001.11.01.05.16.28;	author "";	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2001.09.12.07.38.02;	author "";	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2001.09.10.00.45.26;	author "";	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.9
+log
+@"link edit"
+@
+text
+@type³wiki³backlinks³ TravelPages SFBayAreaInfo OctoberChanges³logname³³text³Palm pilot SF list
+
+*Izzy's Steakhouse, SF, on side street between Chestnut & Lombard
+*Max's on 3rd near Harrison (by Moscone Center)
+*Edinburgh Castle in SF, world's best fish & chips!
+*Chow, 215 Church @@Market, exc food & drink, informal, w/bar
+*Bangkok 16, thai, 3214 16th @@ Guerrero/Dolores 
+*new sun hong kong, 3am!!
+*Farallon, jellyfish bar, 450 Post (at Taylor) 415 956 6969 m-r 11.30am - 10.30pm, f-sa to 11pm, su 5.30p - 10.30p, ask for Pool room
+*Cypress Club, jazz & blues supper club, 500 Jackson (at Sansome) 415-296-8555
+*the Helmand (afghani, k-e rec) 430 Broadway, SF, 415-362-0641
+*no-name sushi (nippon), 15th & church, M-Sa 12noon - 10pm
+*AsiaSF, 201 9th Street, weird chinese restaurant and dance club w/transgen waitstaff
+*Homma's Brown Rice Sushi, 2363B Birch St, Palo Alto (behind Cal Ave, turn rt into alley behind printers inc), 650-327-6118
+*Mai-Do, Japanese store w/cool foreign pens, stationery, Embarcadero Town & Country in Palo Alto [rre]
+*Orphan Andy's, Castro Street, SF, 24hr
+
+[Return to Strata's TravelPages] or
+[Return to SFBayAreaInfo]³date³November 2, 2001@
+
+
+1.8
+log
+@"link edit"
+@
+text
+@d1 1
+a1 1
+type³wiki³backlinks³ TravelPages SFBayAreaInfo³logname³³text³Palm pilot SF list
+@
+
+
+1.7
+log
+@"link edit"
+@
+text
+@d19 1
+a19 1
+[Return to SFBayAreaInfo]³date³October 31, 2001@
+
+
+1.6
+log
+@"wiki edit"
+@
+text
+@d1 1
+a1 1
+type³wiki³backlinks³ TravelPages³logname³³text³Palm pilot SF list
+@
+
+
+1.5
+log
+@"wiki edit"
+@
+text
+@d16 4
+a19 1
+*Orphan Andy's, Castro Street, SF, 24hr³date³October 31, 2001@
+
+
+1.4
+log
+@"wiki edit"
+@
+text
+@d16 1
+a16 1
+*Orphan andy's, castro, 24hr³date³October 31, 2001@
+
+
+1.3
+log
+@"wiki edit"
+@
+text
+@d3 2
+a4 2
+Need to add restaurant where we met Robyn & Kevin for dinner.
+
+@
+
+
+1.2
+log
+@"link edit"
+@
+text
+@d1 1
+a1 1
+type³Ascii³backlinks³ TravelPages³logname³³text³Palm pilot SF list
+d5 12
+a16 14
+Edinburgh Castle in SF, world's best fish & chips!		Priority: 1	Completed: No	SF
+Chow, 215 Church @@Market, exc food & drink, informal, w/bar		Priority: 1	Completed: No	SF
+Bangkok 16, thai, 3214 16th @@ Guerrero/Dolores 		Priority: 1	Completed: No	SF
+Maya Taqueria, 16th & Guerrero		Priority: 1	Completed: No	SF
+new sun hong kong, 3am!!		Priority: 1	Completed: No	SF
+Farallon, jellyfish bar, 450 Post (at Taylor) 415 956 6969 m-r 11.30am - 10.30pm, f-sa to 11pm, su 5.30p - 10.30p, ask for Pool room		Priority: 1	Completed: No	SF
+Cypress Club, jazz & blues supper club, 500 Jackson (at Sansome) 415 296 8555		Priority: 1	Completed: No	SF
+the Helmand (afghani, k-e rec)
+430 Broadway, SF, 415-362-0641		Priority: 1	Completed: No	SF
+no-name sushi (nippon), 15th & church, M-Sa 12noon - 10pm		Priority: 1	Completed: No	SF
+AsiaSF, 201 9th Street, weird chinese restaurant and dance club w/transgen waitstaff		Priority: 1	Completed: No	SF
+Homma's Brown Rice Sushi, 2363B Birch St, Palo Alto (behind Cal Ave, turn rt into alley behind printers inc), 650-327-6118		Priority: 1	Completed: No	SF
+Mai-Do, Japanese store w/cool foreign pens, stationery, Embarcadero Town & Country in Palo Alto [rre]		Priority: 1	Completed: No	SF
+Orphan andy's, castro, 24hr		Priority: 1	Completed: No	SF³date³September 12, 2001@
+
+
+1.1
+log
+@"wiki edit"
+@
+text
+@d1 1
+a1 1
+type³Ascii³backlinks³RecentChanges TravelPages³logname³³text³Palm pilot SF list
+d18 1
+a18 1
+Orphan andy's, castro, 24hr		Priority: 1	Completed: No	SF³date³September 9, 2001@

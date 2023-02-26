@@ -1,0 +1,44 @@
+head	1.2;
+access;
+symbols;
+locks
+	"":1.2; strict;
+comment	@# @;
+
+
+1.2
+date	2001.09.12.07.38.01;	author "";	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2001.09.02.05.06.51;	author "";	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.2
+log
+@"link edit"
+@
+text
+@type³wiki³backlinks³AugustOneHundredGrads ³logname³³text³AMTA has a page of professional photos which can be used on websites or in printed materials!  All you have to do is include a line giving them credit for the photo.  The page of photos is here (http://www.amtamassage.org/news/photos.htm).  Strata
+
+³date³September 12, 2001@
+
+
+1.1
+log
+@"wiki edit"
+@
+text
+@d1 1
+a1 1
+type³wiki³backlinks³AugustOneHundredGrads RecentChanges³logname³³text³AMTA has a page of professional photos which can be used on websites or in printed materials!  All you have to do is include a line giving them credit for the photo.  The page of photos is here (http://www.amtamassage.org/news/photos.htm).  Strata
+d3 1
+a3 1
+³date³September 1, 2001@

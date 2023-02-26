@@ -1,0 +1,50 @@
+head	1.2;
+access;
+symbols;
+locks
+	"":1.2; strict;
+comment	@# @;
+
+
+1.2
+date	2001.09.12.07.38.02;	author "";	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2001.09.10.00.30.48;	author "";	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.2
+log
+@"link edit"
+@
+text
+@type³wiki³backlinks³BonairePages ³logname³³text³RENTAL - BEACH FRONT
+Attractive 2-bedroom beach house for rent on a weekly or monthly basis.
+       Fully furnished. Aircos in bedrooms. Ceiling fans in bedrooms and
+living room & dining room. Solar hot water heater. Wash machine. Beautiful
+garden. Very           secure location with gated entrance. Convenient
+location, near restaurants,            marina, resorts, tennis & spa.
+Attractive rates to responsible parties. Contact for brochure, photos and availability.
+Phone: 570-586-0098; Fax: 570-586-4013; e-mail: larryt49@@alumni.princeton.edu
+³date³September 12, 2001@
+
+
+1.1
+log
+@"wiki edit"
+@
+text
+@d1 1
+a1 1
+type³wiki³backlinks³BonairePages RecentChanges³logname³³text³RENTAL - BEACH FRONT
+d9 1
+a9 1
+³date³September 9, 2001@

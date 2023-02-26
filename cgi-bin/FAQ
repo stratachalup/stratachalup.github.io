@@ -1,0 +1,33 @@
+Q: I would like to make the pages append only.  Is AtisWiki set up for this?
+
+A: 
+
+No, but it is very easy to add: you only need to change the file "AtisWiki" 
+(the main cgi-script) a litle bit:
+
+1) sub actionEdit
+      
+
+change
+
+                        -default=>$page{text},
+
+
+to
+                        -default=>'',
+
+
+
+2) sub actionPost  
+
+change
+
+ $page{text}   = $string;
+
+to
+
+ $page{text}   = "$page{text}\n\n$string";
+
+That's it. 
+
+------------------------------------

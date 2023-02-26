@@ -1,0 +1,417 @@
+head	1.3;
+access;
+symbols;
+locks
+	"":1.3; strict;
+comment	@# @;
+
+
+1.3
+date	2001.09.12.07.38.02;	author "";	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2001.09.10.00.57.17;	author "";	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2001.09.10.00.56.16;	author "";	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.3
+log
+@"link edit"
+@
+text
+@type³Ascii³backlinks³ VirtualNetWiki³logname³³text³From my palm pilot, needs formatting badly.  Books I've read, books I'm looking for, books I have had recommended to me, etc etc.
+
+* BooklistSecond
+
+Courtesans & Fishcakes: consuming passions of classical athens, John Davidson		Priority: 1	Completed: Yes	Books
+volcano cowboys, author forgot, read and liked		Priority: 1	Completed: Yes	Books
+Its the little things, b/w relations' lena williams		Priority: 1	Completed: Yes	Books
+Flux, peggy orenstein, (25-45  yr old women interviews)		Priority: 1	Completed: Yes	Books
+Sujata Massey's _The Flower Master_		Priority: 1	Completed: Yes	Books
+_The_Effective_Executive_, Peter Ferdinand Drucker		Priority: 1	Completed: No	Books
+ The Botany of Desire: A Plant's-Eye View of the World, Michael Pollan 		Priority: 1	Completed: No	Books
+The Lexus And The Olive
+Tree, Friedman 		Priority: 1	Completed: No	Books
+"The Lonely Hearts of the Cosmos", historical account of astrophysics, etc (fork)		Priority: 1	Completed: No	Books
+Women With ADD: Embracing Disorganization at Home and In the
+Workplace::, by Sari Solden		Priority: 1	Completed: No	Books
+Sherrie Inness, author of the book
+                    "Tough Girls: Women Warriors and Wonder Women in Popular Culture.		Priority: 1	Completed: No	Books
+"Declare" by Tim Powers (james bond meets call of cthulu)		Priority: 1	Completed: No	Books
+Jay Sylvan Cohen, Make Your Medicine Safe		Priority: 1	Completed: No	Books
+The Golden Compass; The Subtle Knife, Phillip Pullman		Priority: 1	Completed: No	Books
+Skies of Pern, McCaffrey		Priority: 1	Completed: No	Books
+The Fireproof Building, Dr Sara Wermiel		Priority: 1	Completed: No	Books
+georges canguilhem, _the normal and 
+the pathological_ (nyc: zone books, 1989) IRR		Priority: 1	Completed: No	Books
+Data Munging with Perl, David Cross (well reviewed in login)		Priority: 1	Completed: No	Books
+reunion, (pip/flinx), alan dean foster		Priority: 1	Completed: No	Books
+Iain Banks' _Against A Dark Background_ (udhay, fork, onomatopoeia bar)		Priority: 1	Completed: No	Books
+Postville: A clash of cultures in heartland america, Stephen Bloom		Priority: 1	Completed: No	Books
+The Demon-Haunted World, Carl Sagan		Priority: 1	Completed: No	Books
+A theory of Justice, Rawls (wise ghost; Fork)		Priority: 1	Completed: No	Books
+Anarchy, State, and Utopia, Nozick (meta-goals, Fork)		Priority: 1	Completed: No	Books
+choosing the right pond, robert frank (ref in cost of living/free market book)		Priority: 1	Completed: No	Books
+"small worlds", duncan watts 
+(fork, nonfic)		Priority: 1	Completed: No	Books
+Barbara Eherenriech's "Nickel and Dimed: On (Not) Getting By in America."		Priority: 1	Completed: No	Books
+Age of Unreason trilogy, J Gregory Keyes (Shadows of God is 3rd)		Priority: 1	Completed: No	Books
+Guns, Germs, & Steel, Jared Diamond		Priority: 1	Completed: No	Books
+Java Man: How Caffeine Created the Modern World, 		Priority: 1	Completed: No	Books
+_The Anatomy of Illusion: Religious Cults and Destructive Persuasion_
+(1987) by Thomas W. Keiser & Jacqueline L. Keiser		Priority: 1	Completed: No	Books
+Hooking Up, Tom Wolfe		Priority: 1	Completed: No	Books
+John Kotter's book "A Force for Change: 
+How Leadership Differs from Management."		Priority: 1	Completed: No	Books
+Sherman Alexis, "Smoke Signals", comedy, mom rec		Priority: 1	Completed: No	Books
+Slipcover Chic, 1992, cath. revland & garey		Priority: 1	Completed: No	Books
+Un-Jobbing, Michael Fogler		Priority: 1	Completed: No	Books
+The Altruistic Personality, Sam & Pearl Oliner		Priority: 1	Completed: No	Books
+Prescription for Anger, Gary Hankins PhD (Carol recommend)		Priority: 1	Completed: No	Books
+Getting A Life Real Lives Transformed by YMOYL		Priority: 1	Completed: No	Books
+Shattering the 2 Income Myth, Andy Dappen		Priority: 1	Completed: No	Books
+Schizopolis, independent Film		Priority: 1	Completed: No	Books
+Simply Organized, Connie Cox & Cris Evatt		Priority: 1	Completed: No	Books
+"There's a Good Girl: Gender Stereotyping in the First Three Years of Life" by Marianne Grabrucker		Priority: 1	Completed: No	Books
+The Idea Factory, Pepper White		Priority: 1	Completed: No	Books
+Startup. a Silicon Valley Adventure, Jerry Kaplan		Priority: 1	Completed: No	Books
+The Radicalism of the American Revolution, Gordon S. Wood		Priority: 1	Completed: No	Books
+Speed Cleaning, Jeff Campbell		Priority: 1	Completed: No	Books
+Crossing the Mangrove, Maryse Conde' (read Bonaire 5/5/99) (F Conde)		Priority: 1	Completed: No	Books
+Love & Caribbean, Alec Waugh (917.29 W)		Priority: 1	Completed: No	Books
+Black Majesty, Vandercook		Priority: 1	Completed: No	Books
+Why we eat what we eat, raymond sokolov (new world effect on 1500 era europe, asia)		Priority: 1	Completed: No	Books
+The Sugar Islands, Alec Waugh (also Hot Countries by him)		Priority: 1	Completed: No	Books
+The Twain Have Met, Prince Chula		Priority: 1	Completed: No	Books
+The eruption of MtPele on Martinique that destroyed St Pierre town		Priority: 1	Completed: No	Books
+English in the West Indies, Froud		Priority: 1	Completed: No	Books
+Cradle of the Deep, Treeve		Priority: 1	Completed: No	Books
+If Crab No Walk, Rutters		Priority: 1	Completed: No	Books
+Rochelle Krich jewish mysteries		Priority: 1	Completed: No	Books
+Joseph Telushkin, jewish mysteries		Priority: 1	Completed: No	Books
+Stuart Kaminsky, jewish mysteries		Priority: 1	Completed: No	Books
+A minyan for the Dead, richard fliegal		Priority: 1	Completed: No	Books
+O jerusalem,  & death in a city of mystics, laurie king		Priority: 1	Completed: No	Books
+Murder in the marais, cara black		Priority: 1	Completed: No	Books
+Sound Bite Society, Jeffrey scheuer (atl)		Priority: 1	Completed: No	Books
+Development as freedom, Amartya Sen (nobel, economics) atl		Priority: 1	Completed: No	Books
+Wild Fruits, Henry David Thoreau		Priority: 1	Completed: No	Books
+Tournament of Shadows, karl e meyer & shareen blair brysac (1812 anglo-russian rivalry 4 asia)		Priority: 1	Completed: No	Books
+Poverty & Famines, Amartya Sen atl		Priority: 1	Completed: No	Books
+SERIOUS PLAY: How the World's Best Companies Simulate to Innovate, Michael Schrage,		Priority: 1	Completed: No	Books
+Seven Wonders: Everyday Things for a Healthier Planet, John Ryan		Priority: 1	Completed: No	Books
+"Friedman's Fables", Edwin H. Friedman		Priority: 1	Completed: No	Books
+Generation to Generation, Edwin H. Friedman		Priority: 1	Completed: No	Books
+Cooking Without A Kitchen 
+                     by Peter Mazonson, Susan Grohmann (Editor), Nancy Miller (Editor),		Priority: 1	Completed: No	Books
+Mark C. Taylor, ed, Deconstruction in Context: Literature and Philosophy,
+University of Chicago Press, 1986		Priority: 1	Completed: No	Books
+Randall Collins The Sociology of Philosophies: A Global Theory of
+Intellectual Change (Harvard University Press, 1998)		Priority: 1	Completed: No	Books
+"A People's History of the United States -1492 to the Present" by Howard Zinn 		Priority: 1	Completed: No	Books
+The Rise of the Network Society, Manuel Castells		Priority: 1	Completed: No	Books
+Fear of Cooking, Bob Scher, 1984, out of print, about cooking not recipes		Priority: 1	Completed: No	Books
+Plans and Situated Actions, Lucy Suchman		Priority: 1	Completed: No	Books
+Who Moved My Cheese, Dr Spencer Johnson (1-minute mgr author]		Priority: 1	Completed: Yes	Books
+Sugar Busters, H Leighton Steward, Luis Balart, 1998 Ballantine		Priority: 1	Completed: No	Books
+Disappearing Acts- gender' power, & relational practice@@work, Joyce K. Fletcher		Priority: 1	Completed: No	Books
+Mark Dempsey, Robbing You Blind: Protecting Your Money From Wall Street’s Hidden Costs and Half-Truths                   		Priority: 1	Completed: No	Books
+The Hungry Spirit : Beyond Capitalism : A Quest for Purpose in the Modern World by Charles Handy		Priority: 1	Completed: No	Books
+The Costs of Living: How Market Freedom Erodes the Best Things in Life,  Barry Schwartz		Priority: 1	Completed: No	Books
+Toons Sell, and Sometimes They Don't: An Advertising Spokescharacter Typology and Exploratory Study, Margaret F. Callcott
+and Patricia A. Alvey		Priority: 1	Completed: No	Books
+Undiscovered Islands of the Caribbean,  Burl Willes		Priority: 1	Completed: No	Books
+Intimate partners (also 'unfinished business, same author? Maggie scarf		Priority: 1	Completed: No	Books
+Super marital sex, paul pearsall		Priority: 1	Completed: No	Books
+The Humane Interface, Jef Raskin		Priority: 1	Completed: No	Books
+Pearl S Buck		Priority: 1	Completed: No	Books
+Systems of Survival, Jane Jacob (fork)		Priority: 1	Completed: No	Books
+eBoys: The First Inside Account of Venture Capitalists at Work, by Randall E. Stross, to be published in May 2000 by Crown Publishers		Priority: 1	Completed: No	Books
+Samurai's wife, laura joh rowland, shogun era mysteries		Priority: 1	Completed: No	Books
+The minimalist cooks at home, mark bittman, saw book in seattle!		Priority: 1	Completed: No	Books
+"Cyberselfish," Paulina Borsook 		Priority: 1	Completed: No	Books
+Lattitudes and Attitudes, magazine for cruising sailboats & liveaboards		Priority: 1	Completed: No	Books
+Molecules of Emotion, Candace Pert (body is the unconscious mind, discoverer of opiate receptor!)		Priority: 1	Completed: No	Books
+For G-d, Country, & CocaCola, Mark Pendergrast		Priority: 1	Completed: No	Books
+"Technopoly", by Neil Postman		Priority: 1	Completed: No	Books
+, "The Power Elite" by C.Wright Mills		Priority: 1	Completed: No	Books
+ "The Cult of Information" by Theodore Roszak. 		Priority: 1	Completed: No	Books
+Bobos in Paradise, David Brooks		Priority: 1	Completed: No	Books
+"Internet Open Trading Protocol" by David Burdett, Donald E. Eastlake III, & Marcus
+Goncalves.  ISBN 0-07-135501-4.		Priority: 1	Completed: No	Books
+Braudel, The Wheels of Commerce, 2 volume set, FoRK folks recommend, mesh of chinese towns		Priority: 1	Completed: No	Books
+Guns, Germs, and Steel,  Jared Diamond.		Priority: 1	Completed: No	Books
+Stanley Coren's "Sleep Thieves"		Priority: 1	Completed: No	Books
+How Buildings Learn, Stewart Brand (about workplace learning & artifacts)		Priority: 1	Completed: No	Books
+Alston Chase, In a Dark Wood (nps forest mismgmt)		Priority: 1	Completed: No	Books
+Stock Options 2nd ed,  Robert Pastore (ggarb says VC gave!)		Priority: 1	Completed: No	Books
+House Atreides, pre-Dune trilogy by Herbert's son(?)		Priority: 1	Completed: No	Books
+E-Scape, an interesting ezine		Priority: 1	Completed: No	Books
+Tony Hillerman, navajo mysteries		Priority: 1	Completed: No	Books
+Tony Hillerman recommends Jean Hager, Jake Page, Frank & Susanne Waters, Ron Querry, Tom King, N. Scott Momaday's 'way to rainy mtn', Gospel (a 900 page novel about a lost scroll)		Priority: 1	Completed: No	Books
+Arthur W Upfield, aborigine stories similar to TH		Priority: 1	Completed: No	Books
+Joel Kaye, Economy and Nature in the Fourteenth Century:
+Money, Market Exchange, and the Emergence of Scientific Thought, New
+York: Cambridge University Press, 1998.		Priority: 1	Completed: No	Books
+Jules Verne, The Begum's Fortune, two characters each build an ideal city in the wilds of the American Northwest		Priority: 1	Completed: No	Books
+Dream Machines: Illustrated history of the spaceship, Ron Miller 1994		Priority: 1	Completed: No	Books
+Galen Cranz, Chair: Rethinking Culture, Body, and Design, Norton, 1998 [rre]		Priority: 1	Completed: No	Books
+"Making the Case: Investigating Large Scale Human Rights Violations
+Using Information Systems and Data Analysis", edited by Patrick Ball,
+Herbert F. Spirer, and Louise Spirer.[rre]		Priority: 1	Completed: No	Books
+"Sorting Things Out: Classification and Its Consequences" by Geoffrey C. Bowker [rre]		Priority: 1	Completed: No	Books
+Snap to Grid, Peter Lunenfeld		Priority: 1	Completed: No	Books
+War Day, streiber & knetcka, RK, fict 		Priority: 1	Completed: No	Books
+Peter Drucker's immortal and interminable book,  Management: Tasks, Responsibilities, Practices_		Priority: 1	Completed: No	Books
+Managing UP!_,   Michael S. Dobson, Deborah Singer Dobson.		Priority: 1	Completed: No	Books
+The Radicalism of the American Revolution, Gordon S. Wood		Priority: 1	Completed: No	Books
+James Truslow Adams' 1931 book, "The Epic of America." 		Priority: 1	Completed: No	Books
+Eat or be Eaten: Jungle Warfare for Master Corporate Politician, Phil Porter		Priority: 1	Completed: No	Books
+Marriage, Rabbi Zelig Pliskin		Priority: 1	Completed: No	Books
+Doesn't Anyone Blush Anymore, Rabbi Mani Friedman		Priority: 1	Completed: No	Books
+"The Divided Self", R. D. Laing, [rre], describes process of going insane		Priority: 1	Completed: No	Books
+The Social Life of Information, Paul Duguid & John Seely Brown 		Priority: 1	Completed: No	Books
+"Influence: The Psychology of Persuasion", by Robert Cialdini		Priority: 1	Completed: No	Books
+Dark Matter: A century of speculative fiction from the african diaspora, editor Sheree R Thomas (black scifi)		Priority: 1	Completed: No	Books
+Feasts Afloat: 150 recipes for great meals from small spaces, jennifer t thompson, eliz wheeler		Priority: 1	Completed: No	Books
+Guns, Germs, & Steel, professor Diamond		Priority: 1	Completed: No	Books
+Letters of a Nation, Andrew Carroll		Priority: 1	Completed: No	Books
+Jeffrey Pfeffer, Hidden Value -- How Great Companies Achieve Extraordinary Results With Ordinary People."		Priority: 1	Completed: No	Books
+7 pillars of wisdom, TE Lawrence (borges)		Priority: 1	Completed: No	Books
+Le Feu, henri barbusse (borges)		Priority: 1	Completed: No	Books
+A sahib's war, kipling (borges)		Priority: 1	Completed: No	Books
+Ballad of the white horse, GK Chesterton (borges)		Priority: 1	Completed: No	Books
+The Craft of Verse, Jorge Luis Borges hvd lectures 1967/8		Priority: 1	Completed: No	Books
+Molecules of emotion, candace pert, (biochem of emotion)		Priority: 1	Completed: No	Books
+Generation J, lisa schiffman		Priority: 1	Completed: No	Books
+Do What You Love & The Money Will Follow, Marsha Sinetar		Priority: 1	Completed: No	Books
+Kant & the Platypus, umberto eco		Priority: 1	Completed: No	Books
+Theory of Semiotics, umberto eco		Priority: 1	Completed: No	Books
+Caesar, the life story of a panda-leopard, Patrick O'Brien, also 'Hussein, an entertainment'		Priority: 1	Completed: No	Books
+Calcutta Chromosome, amitav ghosh, wild scifi		Priority: 1	Completed: No	Books
+A brief history of the future- from radio days to internet years in a lifetime, john naughton		Priority: 1	Completed: No	Books
+The death of character- moral edu in age w/o good or evil, james davidson hunter		Priority: 1	Completed: No	Books
+Metropolis VC 791.43 M		Priority: 1	Completed: No	Books
+Snap to Grid, Peter Lunenfeld (rre)		Priority: 1	Completed: No	Books
+Alchemical Imaginary, Peter Lunenfeld (new, mitpress)		Priority: 1	Completed: No	Books
+_Maverick_ by Ricardo Semler (jbone)		Priority: 1	Completed: No	Books
+the Math Gene, Keith Devlin		Priority: 1	Completed: No	Books
+John Sarno, Healing Back Pain, Mind over Back Pain, the MindBody Prescription [seatimes article]		Priority: 1	Completed: No	Books
+Alfie Kohn, Punished by Rewards: the trouble with gold stars, incentive plans...and other bribes		Priority: 1	Completed: No	Books
+DeMarco & Lister, PeopleWare (3rd of sw eng big 3)		Priority: 1	Completed: No	Books
+Weinberg, The Psychology of Computer Programming  (#2 in big 3 of sw eng)		Priority: 1	Completed: No	Books
+Brooks, Mythical Man-Month (#1 in big 3 of sw eng)		Priority: 1	Completed: No	Books
+"good natured" by frans de waal; he discusses the evolutionary biology related to what
+people experience as honor and justice and doing-the-right-thing. 		Priority: 1	Completed: No	Books
+Christopher Morley's Where the Blue Begins (1922), set in a  New York occupied by dogs		Priority: 1	Completed: No	Books
+Olaf Stapledon's Sirius: A  Fantasy of Love and Discord (1944), whose dog protagonist  boasts enhanced intelligence		Priority: 1	Completed: No	Books
+Scott  Bradfield's Animal Planet (1995), 		Priority: 1	Completed: No	Books
+Anti-Patterns: Refactoring SW, Arch, & Projects in Crisis, William Brown, Raphael Malveau		Priority: 1	Completed: No	Books
+AntiPatterns in Project Management, William Brown et al		Priority: 1	Completed: No	Books
+Refactoring: Improving the Design of Existing Code 
+                          Martin Fowler 
+                          Kent Beck 
+                          John Brant 
+                          William Opdyke 
+                          Don Roberts 		Priority: 1	Completed: No	Books
+"The More You Watch, the Less You Know"  by Danny Schecter		Priority: 1	Completed: No	Books
+* "Media Circus" by Howard Kurtz		Priority: 1	Completed: No	Books
+* "Breaking the News" by James Fallows		Priority: 1	Completed: No	Books
+the non-designer's design book, (typefaces, web page, fonts, several books)  robin williams (not the comedian)		Priority: 1	Completed: No	Books
+Darwin's Radio, Greg Bear		Priority: 1	Completed: No	Books
+ Steve McConnell. Software Project Survival Guide. 		Priority: 1	Completed: No	Books
+Holy Fire, Bruce Sterling (IRR mention)		Priority: 1	Completed: No	Books
+Life Makeovers : 52 Practical & Inspiring Ways to Improve Your Life One Week at a Time 
+By Richardson, Cheryl
+		Priority: 1	Completed: No	Books
+Program Management Demystified, Geof Reiss		Priority: 1	Completed: No	Books
+Taking a Gap Year, Susan Griffith		Priority: 1	Completed: No	Books
+Before You Go: Gap Year Advice-Tips & Hints for First-Time Travellers (Forest Guides)  by Tom Griffiths, Michael Palin. 		Priority: 1	Completed: No	Books
+Planning Your Gap Year : Have the Time of Your Life Working, Studying or Travelling
+    by Mark Hempshell. Paperback (December 1998) 		Priority: 1	Completed: No	Books
+"A Guide To Monastic Guest Houses"  Robert J. Regalbuto		Priority: 1	Completed: No	Books
+The Innovator's Dilemma  by Clayton M. Christensen (KN, also dan geer, login 02/01)		Priority: 1	Completed: No	Books
+Stewart Brand's _How Buildings Learn_		Priority: 1	Completed: No	Books
+Thinking in Pictures : And Other Reports from My Life With Autism by Temple Grandin, Oliver W. Sacks		Priority: 1	Completed: No	Books
+A General Theory of Love, Lewis Amini & Lannon (3)		Priority: 1	Completed: No	Books
+why we buy, paco underhill		Priority: 1	Completed: No	Books
+longitude, dava sobel		Priority: 1	Completed: No	Books
+Inventurers, Richard Lieder & Janet Hagberg 158.1H		Priority: 1	Completed: No	Books
+Peter Senge's Fifth DFiscipline		Priority: 1	Completed: No	Books
+the new new thing (a silicon valley story), michael lewis (greenspun)		Priority: 1	Completed: No	Books
+the restless sea: exploring the world beneath the waves, robert kunzig (grspn)		Priority: 1	Completed: No	Books
+sex and real estate: why we love houses, marjorie garber (grpsn, pop psych, slightly pans)		Priority: 1	Completed: No	Books
+eyewitness travel guides: rome (grspn)		Priority: 1	Completed: No	Books
+ Wild Swans : Three Daughters of China  by Jung Chang  (grspn)		Priority: 1	Completed: No	Books
+Designing Web Usability : The Practice of Simplicity  by Jakob Nielsen (grspn)		Priority: 1	Completed: No	Books
+In the Heart of the Sea : The Tragedy of the Whaleship Essex 
+                                                 by Nathaniel Philbrick (grspn) (historical account of true life whaling story that inspired Moby Dick)		Priority: 1	Completed: No	Books
+ Beowulf : A New Verse Translation 
+                                                 by Seamus Heaney(Editor) (grspn) (great new xlation)		Priority: 1	Completed: No	Books
+Bloodties : Nature, Culture, and the Hunt (Kodansha Globe) 
+                                                 by Ted Kerasote (grspn) (hunting in bioregion lower energy cost than vegetarianism!)		Priority: 1	Completed: No	Books
+The Curious Cook, Harold McGee		Priority: 1	Completed: No	Books
+ The Idea Factory : Learning to Think at Mit 
+                                                 by Pepper White (grspn)		Priority: 1	Completed: No	Books
+Hill Rat : Blowing the Lid Off Congress 
+                                                  by John L. Jackley (grspn)		Priority: 1	Completed: No	Books
+repetitive strain injury, pascarelli & quilter		Priority: 1	Completed: No	Books
+it's not business, it's personal-- ronna lichtenberg; about relationship mgmt in business		Priority: 1	Completed: No	Books
+Beyond the Hundredth Meridian_, Stegner's biography of explorer and USGS founder John Wesley Powell		Priority: 1	Completed: No	Books
+White Collar Sweatshop, Jill Andresky Fraser		Priority: 1	Completed: No	Books
+The Tipping Point, Gladwell (dan geer, login 02/01)		Priority: 1	Completed: No	Books
+Information Rules, Varian & Shapiro (dan geer, login 02/01)		Priority: 1	Completed: No	Books
+Spooked: Corporate Espionage in America, Marc Barry		Priority: 1	Completed: No	Books
+Wrestling w/love, Samuel Osherson 155.632O		Priority: 1	Completed: No	Books
+Circle of Simplicity, Cecile Andrews		Priority: 1	Completed: No	Books
+Chic Simple Work Clothes: Casual Dress for Serious Work		Priority: 1	Completed: No	Books
+Ima on the Bima, Rabbi Mindy Portnoy		Priority: 1	Completed: No	Books
+On Being a Jewish Feminist, Susannah Heschel		Priority: 1	Completed: No	Books
+Writing a Woman's Life, Carolyn Heilbrun  920.72H		Priority: 1	Completed: No	Books
+Of Woman Born: Motherhood as Experience & Institution, Adrienne Rich		Priority: 1	Completed: No	Books
+The Chalice & The Blade, Riane Eisler		Priority: 1	Completed: No	Books
+Becoming an Ex, Helen Ebaugh		Priority: 1	Completed: No	Books
+Writing on Women, Phyllis Rose		Priority: 1	Completed: No	Books
+Holding On or Letting Go, Samuel Osherson (men career leavers)		Priority: 1	Completed: No	Books
+Radical Career Changers, Donald Karz (men career leavers)		Priority: 1	Completed: No	Books
+Hard Choices: How Women Decide About Work, Career, & Motherhood, Kathleen Gerson 305.40973G		Priority: 1	Completed: No	Books
+In a Different Voice, Carol Gilligan		Priority: 1	Completed: No	Books
+Freedom & Culture, Dorothy Lee		Priority: 1	Completed: No	Books
+The Addictive Organization, Anne Wilson Schaef & Diane Fassel		Priority: 1	Completed: No	Books
+Modern Madness, Douglas LaBier		Priority: 1	Completed: No	Books
+Muddling Toward Frugality, Warren Johnson		Priority: 1	Completed: No	Books
+301 Ways to Have Fun at Work, Dave Hemsath		Priority: 1	Completed: No	Books
+Biological Psychology, James Kalat		Priority: 1	Completed: No	Books
+On Food & Cooking,  Harold McGee		Priority: 1	Completed: No	Books
+Why So Slow?   Virginia Valian, MIT Press, 305.42 V		Priority: 1	Completed: No	Books
+Sephardic Cooking, Copeland Marks		Priority: 1	Completed: No	Books
+The Jewish Vegetarian Year Cookbook, Roberta Kalachofsky & Rosa Rastel		Priority: 1	Completed: No	Books
+Grinding It Out, Ray Kroc		Priority: 1	Completed: No	Books
+Fundamentals of Applied Probability Theory 
+                                                 by Alvin W. Drake (grspn)		Priority: 1	Completed: No	Books
+Scale & scope- dynamics of industrial capitalism, Alfred D. Chandler (cost of living, schwartz)		Priority: 1	Completed: No	Books
+Sex & Power, susan estrich		Priority: 1	Completed: No	Books
+Belief or nonbelief, umb. eco		Priority: 1	Completed: No	Books
+After the Ecstasy, the Laundry  Jack Kornfield		Priority: 1	Completed: No	Books
+Foley, book about his stay on Mir		Priority: 1	Completed: No	Books
+The Predatory Society, Paul Blumberg (cost of living, schwartz)		Priority: 1	Completed: No	Books
+Corporate Crime & Violence, Russell Mokhiber (cost of living, schwartz)		Priority: 1	Completed: No	Books
+Rich dad, poor dad- book a2deh's mom got him		Priority: 1	Completed: No	Books
+Madness of Adam & Eve, cited on baycon panel		Priority: 1	Completed: No	Books
+The Federalist papers in plain english, auth unk		Priority: 1	Completed: No	Books
+Food of the Gods, HG Wells		Priority: 1	Completed: No	Books
+Talking From 9 to 5, Deborah Tannen 651.7 T		Priority: 2	Completed: No	Books
+Desert Queen, Janet Wallach B BELL		Priority: 2	Completed: Yes	Books
+Burn Rate, Michael Wolff 338.761 W		Priority: 2	Completed: Yes	Books
+Close to the Machine, Ellen Ullman 005.1092 U		Priority: 2	Completed: Yes	Books
+Two Incomes & Still Broke, Linda Kelley 332.024 K		Priority: 2	Completed: Yes	Books
+The New Pioneers (men/wom  xform biz & mktplc), Tom Petzinger 658 P		Priority: 2	Completed: Yes	Books
+Eastern Standard Time- a Guide to Asian Influence on American Culture (st) 303.4827 E		Priority: 2	Completed: Yes	Books
+The only investment quide you'll ever need, Andrew Tobias 332.678 T		Priority: 2	Completed: Yes	Books
+A Life Apart, a film about Orthodox Judaism		Priority: 3	Completed: No	Books
+High Stakes, No Prisoners:
+    A Winner's Tale of Greed and Glory in the Internet Wars
+  by Charles H. Ferguson		Priority: 4	Completed: No	Books
+About Face, alan cooper (ui's)		Priority: 4	Completed: No	Books
+For G-d, Country, & CocaCola, Mark Pendergrast 338.7663 P
+also 'the history of coffee'		Priority: 4	Completed: No	Books
+The Pattern & the Stone, Danny Hillis 004 H		Priority: 4	Completed: Yes	Books
+The new new thing, michael lewis		Priority: 4	Completed: No	Books
+A Family of Value, John K Rosemond 649.1 R		Priority: 4	Completed: No	Books
+The Jewish-American Kitchen, raymond sokolov  (641.5676 S)		Priority: 4	Completed: No	Books
+Grinding It Out, Ray Kroc 647.9573 K		Priority: 4	Completed: No	Books
+Moodfood, new album, psychedelicatessen (previous "moodfood"		Priority: 5	Completed: No	Books
+Peter Maurau, warm sound in a grey field-'whirling dervish'		Priority: 5	Completed: No	Books
+Charles Haden, 1991 album The Haunted Heart, 1940's jazz 		Priority: 5	Completed: No	Books
+Against the Pollution of I, Jacques Lusseyran		Priority: 5	Completed: No	Books
+music: band is "euphoria", album is "delerium"		Priority: 5	Completed: No	Books
+Elderdesign, Rosemary Bakker, 646.79 W		Priority: 5	Completed: No	Books
+Making the move- Sr Res communities, lettice stuart, 646.79 S		Priority: 5	Completed: No	Books
+Ambient 152.33/a brief history of ambient vol 1, virgin records, @@ t&c's		Priority: 5	Completed: No	Books
+Steve Earle, Transcendental Blues [rre], blues guitar		Priority: 5	Completed: No	Books
+Band, 'ass ponys', atl monthly		Priority: 5	Completed: No	Books
+Brad Mehldau, Elegaic Cycle, jazz piano [rre]		Priority: 5	Completed: No	Books
+Choose Florida for retirement, james gollattscheck, 646.79 G		Priority: 5	Completed: No	Books
+Moving mom & dad, sarah morse 362.6109 M		Priority: 5	Completed: No	Books
+And There was Light, Jacques Lusseyran		Priority: 5	Completed: No	Books
+More Work for Mother, Ruth Schwarz Cowan		Priority: 5	Completed: No	Books
+Heirloom Vegetable Gardening, William Woys Weaver		Priority: 5	Completed: Yes	Books
+Things that make us smart, Donald Norman 303.4834 N		Priority: 5	Completed: Yes	Books
+Put Your best foot forward, Jo-ellen dimitrius		Priority: 5	Completed: No	Books
+Flying neutrinos, 'mr zoot suit'		Priority: 5	Completed: No	Books
+The invisible computer, Donald Norman 004.16 N 		Priority: 5	Completed: Yes	Books
+Baljit (Bally) Sagoo, 'star crazy' & 'rising from the east' albums (bhangra music)		Priority: 5	Completed: Yes	Books
+Ravi Shankar		Priority: 5	Completed: No	Books
+Pizzicato 5 (P5)		Priority: 5	Completed: No	Books
+Ryuchi Sakamoto, (& Yellow Magic Orchestra)		Priority: 5	Completed: No	Books
+Nusrat Fateh Ali Khan, qawaali music		Priority: 5	Completed: Yes	Books
+Kenzaburo Oe, nobel writer
+a healing family 305.9081 O
+teach us to outgrow our madness F OE		Priority: 5	Completed: Yes	Books
+Westward Ha!, SJ Perelman 817.5 P		Priority: 5	Completed: No	Books
+Video Night in Kathmandu, Pico Iyer
+falling off the map 910.4 I
+tropical classical 814.54 I		Priority: 5	Completed: No	Books
+Joy Luck Club, Amy Tan F TAN		Priority: 5	Completed: Yes	Books
+Amber by Autechere ES ambient		Priority: 5	Completed: No	Books
+'pentamerous metamorphosis' album by Global communication at EricS house, lovely quiet ambient!!		Priority: 5	Completed: No	Books
+Hooverphonic, 'Blue wonder power milk' album, saw review		Priority: 5	Completed: No	Books
+Total Eclipse, tenska tawa, fr e, 3		Priority: 5	Completed: Yes	Books
+Sandoz, Limbo, fr ethnotechno 8		Priority: 5	Completed: Yes	Books
+ sabres of paradise, R.S.D., from ethnotechno cd 9		Priority: 5	Completed: Yes	Books
+Wolfram Huschke, cello on the rocks		Priority: 5	Completed: Yes	Books
+Jars of Clay, same, 'flood'		Priority: 5	Completed: Yes	Books
+Jonah, Algiers, fr e 7-8		Priority: 5	Completed: Yes	Books
+Album 'hallucination engine' by 'material', esp tr 7 hidden garden/naima		Priority: 5	Completed: No	Books
+Death camp (cant?) cutie, (1st album)		Priority: 5	Completed: No	Books
+PetShopBoys, nightlife		Priority: 5	Completed: No	Books
+"The Last Resorts" by Polly Pattullo		Priority: 5	Completed: No	Books
+ "Lies Across America - What our Historic Sites Get Wrong" by James Loewen		Priority: 5	Completed: No	Books
+Shaken not Stirred, (exc!)?brian taylor, has keiko-m sax player		Priority: 5	Completed: No	Books
+Easy things to make things easy, doreen b greenstein & suzanne bloom		Priority: 5	Completed: Yes	Books
+Check for Rich Bandler, John Grinder, Steve/Connirae Andreas		Priority: 5	Completed: No	Books
+Enneagram of Parenting, Eliz Wagele		Priority: 5	Completed: No	Books
+Enneagram in love & work, Helen Palmer		Priority: 5	Completed: No	Books
+Are you my type? Renee Baron 155.26 B		Priority: 5	Completed: No	Books
+Virtuoso, Ken Carbone		Priority: 5	Completed: No	Books
+The Pasteurization of France, Bruno Latour		Priority: 5	Completed: No	Books
+Net Slaves, Bill Lessard & Steve Baldwin		Priority: 5	Completed: No	Books
+Seattle lakes bays & waterways afoot, marge mueller, 917.9777 M		Priority: 5	Completed: No	Books
+Hope in a Jar- Americas beauty culture, Kathy Peiss, 391.6309 P		Priority: 5	Completed: No	Books
+Beyond Reengineering- michael hammer, 658.4063 H		Priority: 5	Completed: No	Books³date³September 12, 2001@
+
+
+1.2
+log
+@"wiki edit"
+@
+text
+@d1 1
+a1 1
+type³Ascii³backlinks³RecentChanges VirtualNetWiki³logname³³text³From my palm pilot, needs formatting badly.  Books I've read, books I'm looking for, books I have had recommended to me, etc etc.
+d360 1
+a360 1
+Beyond Reengineering- michael hammer, 658.4063 H		Priority: 5	Completed: No	Books³date³September 9, 2001@
+
+
+1.1
+log
+@"wiki edit"
+@
+text
+@d3 2
+a68 1
+'Vincent T. Harlow's book on Christopher Cod
+@

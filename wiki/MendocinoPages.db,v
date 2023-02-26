@@ -1,0 +1,51 @@
+head	1.2;
+access;
+symbols;
+locks
+	"":1.2; strict;
+comment	@# @;
+
+
+1.2
+date	2001.09.12.07.38.02;	author "";	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2001.09.10.00.38.21;	author "";	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.2
+log
+@"link edit"
+@
+text
+@type³wiki³backlinks³ TravelPages³logname³³text³Mendocino,
+Dive Crazy Adventures, 707 937 3079,rental kayaks at Schooners landing at mouth of Albion river
+
+Hikers Hip Pocket Guide to the Mendocino Coast, Bob Lorentzen ($14) Bored Feet Press 888 336 6199
+
+Ten Mile Beach hike at MacKerricher State Park, w/8 mile Haul Rd old logging road by beach bluffs, leads to 3 mile loop at Lake Cleone
+
+Canoeing-- try 'Big River' south of Mendocino town, train trestles & old logworks, lots of wildlife, claimed as 'longest unspoiled CA estuary'
+
+Headlands Trail in M-town³date³September 12, 2001@
+
+
+1.1
+log
+@"wiki edit"
+@
+text
+@d1 1
+a1 1
+type³wiki³backlinks³RecentChanges TravelPages³logname³³text³Mendocino,
+d10 1
+a10 1
+Headlands Trail in M-town³date³September 9, 2001@

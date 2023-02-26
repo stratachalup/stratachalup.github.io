@@ -1,0 +1,36 @@
+BUGS:
+
+   BUG: \ in the middle of a line
+   BUG: <parameter>
+   BUG: Backlinks
+
+TODO:
+5. Time-Machine for Peter
+6. NameSpaces for Andi
+7. Config-Script
+8. WikiAdmin.cgi: List non-referenced Pages, Delete Pages
+9. Wiki->HTML
+10. Wiki->SqueakWiki
+11. Squeak-Wiki Markup
+
+
+OLD TODO:
+---------
+
+-> write THANKS file: Ward, Peter, etc...
+
+1) Command-line-Parsing:
+-------------------------
+-> Wiki2html: Path, tagetpath.
+-> wikiPublish: Path, Name of Translationtable
+
+PageArchive:
+
+ ->emailNotification
+ ->Shellscript: "Wikiaddpage"
+ ->Diffs	
+
+wiki2html:
+ -> use a Page "DontTranslate" for pages that should
+    not be converted to html.
+

@@ -1,0 +1,56 @@
+head	1.3;
+access;
+symbols;
+locks
+	"":1.3; strict;
+comment	@# @;
+
+
+1.3
+date	2001.09.12.07.38.01;	author "";	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2001.09.02.05.33.04;	author "";	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2001.09.02.05.11.24;	author "";	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.3
+log
+@"link edit"
+@
+text
+@type³wiki³backlinks³AugustOneHundredGrads ³logname³³text³Municipal code regs are here ( http://www.ordlink.com/codes/campbell/_DATA/TITLE05/Chapter_5_48_MASSAGE_PARLORS/index.html )  Still trying to figger 'em out.  Looks like you
+need a "certificate of graduation" or one year's practical documented experience.  Strata³date³September 12, 2001@
+
+
+1.2
+log
+@"wiki edit"
+@
+text
+@d1 2
+a2 2
+type³wiki³backlinks³AugustOneHundredGrads RecentChanges³logname³³text³Municipal code regs are here ( http://www.ordlink.com/codes/campbell/_DATA/TITLE05/Chapter_5_48_MASSAGE_PARLORS/index.html )  Still trying to figger 'em out.  Looks like you
+need a "certificate of graduation" or one year's practical documented experience.  Strata³date³September 1, 2001@
+
+
+1.1
+log
+@"wiki edit"
+@
+text
+@d1 2
+a2 1
+type³wiki³backlinks³AugustOneHundredGrads RecentChanges³logname³³text³Municipal code regs are here (http://www.ordlink.com/codes/campbell/_DATA/TITLE05/Chapter_5_48_MASSAGE_PARLORS/index.html)  Still trying to figger 'em out.  Strata³date³September 1, 2001@

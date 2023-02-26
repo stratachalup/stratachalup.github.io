@@ -1,0 +1,59 @@
+head	1.3;
+access;
+symbols;
+locks
+	"":1.3; strict;
+comment	@# @;
+
+
+1.3
+date	2001.09.12.07.38.01;	author "";	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2001.09.02.05.38.42;	author "";	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2001.09.02.05.36.59;	author "";	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.3
+log
+@"link edit"
+@
+text
+@type³wiki³backlinks³AugustOneHundredGrads ³logname³³text³Municipal code is here ( http://www.amlegal.com/sanjose_ca/lpext.dll/Infobase/34e1/3a1c?fn=altmain-nf.htm&f=templates&2.0 ).  
+Basically 100 hours, proof of liability insurance, doctor's clean bill of health statement.  Details here ( http://www.amlegal.com/sanjose_ca/lpext.dll/Infobase/34e1/3a1c/3acc/3ad9?f=templates&fn=altmain-nf.htm&2.0#JD_644410 )
+Strata³date³September 12, 2001@
+
+
+1.2
+log
+@"wiki edit"
+@
+text
+@d1 1
+a1 1
+type³wiki³backlinks³AugustOneHundredGrads RecentChanges³logname³³text³Municipal code is here ( http://www.amlegal.com/sanjose_ca/lpext.dll/Infobase/34e1/3a1c?fn=altmain-nf.htm&f=templates&2.0 ).  
+d3 1
+a3 1
+Strata³date³September 1, 2001@
+
+
+1.1
+log
+@"wiki edit"
+@
+text
+@d1 3
+a3 1
+type³wiki³backlinks³AugustOneHundredGrads RecentChanges³logname³³text³Municipal code is here ( http://www.amlegal.com/sanjose_ca/lpext.dll/Infobase/34e1/3a1c?fn=altmain-nf.htm&f=templates&2.0 ).  Strata³date³September 1, 2001@

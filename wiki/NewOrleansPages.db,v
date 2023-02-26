@@ -1,0 +1,63 @@
+head	1.3;
+access;
+symbols;
+locks
+	"":1.3; strict;
+comment	@# @;
+
+
+1.3
+date	2001.09.12.07.38.01;	author "";	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2001.09.10.00.24.03;	author "";	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2001.09.10.00.22.59;	author "";	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.3
+log
+@"link edit"
+@
+text
+@type³wiki³backlinks³ TravelPages³logname³³text³LISA 2000 was in New Orleans, and it was great, except I didn't have any chance to look around and DO stuff.  Here's some info I copied down before the trip.  
+
+I also need to copy down the business card info from some of the fabboo restaurants we went to.  I usually don't like going out to "good" restaurants, the food is too rich, too complicated, too fussy.  Well, not in New Orleans.  Wow.  Just wow!
+
+* NewOrleansCoffeeShops
+* NewOrleansLocalFavorites
+* NewOrleansExtras
+³date³September 12, 2001@
+
+
+1.2
+log
+@"wiki edit"
+@
+text
+@d1 1
+a1 1
+type³wiki³backlinks³RecentChanges TravelPages³logname³³text³LISA 2000 was in New Orleans, and it was great, except I didn't have any chance to look around and DO stuff.  Here's some info I copied down before the trip.  
+d8 1
+a8 1
+³date³September 9, 2001@
+
+
+1.1
+log
+@"wiki edit"
+@
+text
+@d7 1
+@
